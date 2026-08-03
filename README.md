@@ -16,7 +16,7 @@ The project utilizes **TF-IDF (Term Frequency-Inverse Document Frequency)** for 
 
 ---
 
-## 🚀 Features
+## 🚀 Features of this project
 
 - Real-time emotion prediction
 - NLP text preprocessing
